@@ -6,7 +6,7 @@
 
 **Crafting bloat-free, efficient Android and Linux experiences.**
 
-[![Website](https://img.shields.io/badge/Website-leanbitlab.github.io-7C4DFF?style=flat&logo=google-chrome&logoColor=white)](https://leanbitlab.github.io/LeanBitLab/) [![Open Collective](https://img.shields.io/badge/Open%20Collective-Support-7FADF9?style=flat&logo=open-collective&logoColor=white)](https://opencollective.com/leanbitlab) [![Sponsor](https://img.shields.io/badge/Sponsor-LeanBitLab-D32F2F?style=flat&logo=github-sponsors)](https://github.com/sponsors/LeanBitLab)
+[![Website](https://img.shields.io/badge/Website-leanbitlab.github.io-7C4DFF?style=flat&logo=google-chrome&logoColor=white)](https://leanbitlab.github.io/LeanBitLab/) [![Open Collective](https://img.shields.io/badge/Open%20Collective-Support-7FADF9?style=flat&logo=open-collective&logoColor=white)](https://opencollective.com/leanbitlab-org) [![Sponsor](https://img.shields.io/badge/Sponsor-LeanBitLab-D32F2F?style=flat&logo=github-sponsors)](https://github.com/sponsors/LeanBitLab)
 
 </div>
 
@@ -44,7 +44,7 @@ We build software that is functional, resource-friendly, and respects user priva
 
 Your support helps us maintain our current open-source projects and build new bloat-free experiences.
 
-[![Open Collective Support](https://img.shields.io/badge/Support_on-Open_Collective-7FADF9?style=for-the-badge&logo=open-collective&logoColor=white)](https://opencollective.com/leanbitlab)
+[![Open Collective Support](https://img.shields.io/badge/Support_on-Open_Collective-7FADF9?style=for-the-badge&logo=open-collective&logoColor=white)](https://opencollective.com/leanbitlab-org)
 
 ### 💖 Active Community Sponsors
 

@@ -20,15 +20,87 @@ We create open-source software focused on **efficiency**, **privacy**, and **use
 
 ## 📱 Ecosystem Projects
 
-| Project | Description | License |
-|---|---|---|
-| **[LtvLauncher](https://github.com/leanbitlab-org/LtvLauncher)** | Minimal Android TV launcher with WiFi widget & OLED screensaver | GPL-3.0 |
-| **[LeanType](https://github.com/LeanBitLab/LeanType)** | AI-enhanced keyboard with custom providers & dedicated keys | GPL-3.0 |
-| **[Lwidget](https://github.com/LeanBitLab/Lwidget)** | Lightweight time, events, tasks, battery & data usage widget | Apache-2.0 |
-| **[RdTube](https://github.com/LeanBitLab/RdTube)** | Clean, YouTube-like UI for Reddit videos | GPL-3.0 |
-| **[Adaptive Brightness Linux](https://github.com/LeanBitLab/adaptive-brightness-linux)** | Adaptive brightness control daemon & GUI for Linux | MIT |
-| **[LeanType Handwriting Plugin](https://github.com/LeanBitLab/Leantype-Handwriting-Plugin)** | Handwriting recognition layout plugin for LeanType | Apache-2.0 |
-| **[LeanType Translation Plugin](https://github.com/LeanBitLab/Leantype-Translation-Plugin)** | Translation layout plugin for LeanType | Apache-2.0 |
+<table>
+  <thead>
+    <tr>
+      <th width="32%" align="left">Project</th>
+      <th width="43%" align="left">Description</th>
+      <th width="25%" align="left">Stats &amp; Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b><a href="https://github.com/LeanBitLab/LeanType">⌨️ LeanType</a></b></td>
+      <td>AI-enhanced keyboard with custom providers &amp; dedicated keys</td>
+      <td>
+        <a href="https://github.com/LeanBitLab/LeanType/stargazers"><img src="https://img.shields.io/badge/Stars-699-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Stars"></a>
+        <a href="https://github.com/LeanBitLab/LeanType/releases/latest"><img src="https://img.shields.io/badge/Downloads-57.3k-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Downloads"></a>
+      </td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/leanbitlab-org/LtvLauncher">📺 LTvLauncher</a></b></td>
+      <td>Minimal TV launcher with WiFi widget &amp; OLED screensaver protection</td>
+      <td>
+        <a href="https://github.com/leanbitlab-org/LtvLauncher/stargazers"><img src="https://img.shields.io/badge/Stars-292-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Stars"></a>
+        <a href="https://github.com/leanbitlab-org/LtvLauncher/releases/latest"><img src="https://img.shields.io/badge/Downloads-20.0k-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Downloads"></a>
+      </td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/LeanBitLab/Lwidget">📊 Lwidget</a></b></td>
+      <td>Unified widget tracking time, calendar events, tasks, battery &amp; data usage</td>
+      <td>
+        <a href="https://github.com/LeanBitLab/Lwidget/stargazers"><img src="https://img.shields.io/badge/Stars-40-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Stars"></a>
+        <a href="https://github.com/LeanBitLab/Lwidget/releases/latest"><img src="https://img.shields.io/badge/Downloads-890-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Downloads"></a>
+      </td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/LeanBitLab/RdTube">🎬 RdTube</a></b></td>
+      <td>Sleek, YouTube Shorts-style video browsing client for Reddit</td>
+      <td>
+        <a href="https://github.com/LeanBitLab/RdTube/stargazers"><img src="https://img.shields.io/badge/Stars-33-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Stars"></a>
+        <a href="https://github.com/LeanBitLab/RdTube/releases/latest"><img src="https://img.shields.io/badge/Downloads-469-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Downloads"></a>
+      </td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/LeanBitLab/Leantype-Handwriting-Plugin">✍️ Handwriting Plugin</a></b></td>
+      <td>Handwriting recognition layout plugin for LeanType keyboard</td>
+      <td>
+        <a href="https://github.com/LeanBitLab/Leantype-Handwriting-Plugin/stargazers"><img src="https://img.shields.io/badge/Stars-8-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Stars"></a>
+        <a href="https://github.com/LeanBitLab/Leantype-Handwriting-Plugin/releases/latest"><img src="https://img.shields.io/badge/Downloads-856-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Downloads"></a>
+      </td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/LeanBitLab/Leantype-Translation-Plugin">🌐 Translation Plugin</a></b></td>
+      <td>Google Translate layout plugin for LeanType keyboard</td>
+      <td>
+        <a href="https://github.com/LeanBitLab/Leantype-Translation-Plugin/stargazers"><img src="https://img.shields.io/badge/Stars-2-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Stars"></a>
+        <a href="https://github.com/LeanBitLab/Leantype-Translation-Plugin/releases/latest"><img src="https://img.shields.io/badge/Downloads-1.1k-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Downloads"></a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>📝 LeanBook</b></td>
+      <td>Notes, Tasks, Reminders, Bills &amp; Shopping list</td>
+      <td>
+        <a href="https://github.com/LeanBitLab"><img src="https://img.shields.io/badge/Status-In_Development-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="In Development"></a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>📞 Minimal Dialer</b></td>
+      <td>Clean, bloat-free phone dialer</td>
+      <td>
+        <a href="https://github.com/LeanBitLab"><img src="https://img.shields.io/badge/Status-In_Development-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="In Development"></a>
+      </td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/LeanBitLab/adaptive-brightness-linux">💡 Adaptive Brightness Linux</a></b></td>
+      <td>Backlight manager providing ambient-light adaptive brightness control for Linux displays</td>
+      <td>
+        <a href="https://github.com/LeanBitLab/adaptive-brightness-linux/stargazers"><img src="https://img.shields.io/badge/Stars-11-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Stars"></a>
+        <a href="https://github.com/LeanBitLab/adaptive-brightness-linux/releases/latest"><img src="https://img.shields.io/badge/Downloads-3-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Downloads"></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -44,9 +116,9 @@ We build software that is functional, resource-friendly, and respects user priva
 
 Your support helps us maintain our current open-source projects and build new bloat-free experiences.
 
-[![Open Collective Support](https://img.shields.io/badge/Support_on-Open_Collective-7FADF9?style=for-the-badge&logo=open-collective&logoColor=white)](https://opencollective.com/leanbitlab-org)
+[![Open Collective Support](https://img.shields.io/badge/Support_on-Open_Collective-7FADF9?style=for-the-badge&logo=open-collective&logoColor=white)](https://opencollective.com/leanbitlab-org) [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-LeanBitLab-D32F2F?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/LeanBitLab)
 
-### 💖 Active Community Sponsors
+### 💖 GitHub Sponsors
 
 Thank you to our amazing sponsors!
 
@@ -62,7 +134,8 @@ Thank you to our amazing sponsors!
   <strong>Johan Marten</strong> &nbsp;&bull;&nbsp;
   <strong><a href="https://github.com/BareTread">BareTread</a></strong> &nbsp;&bull;&nbsp;
   <strong><a href="https://github.com/spielist">spielist</a></strong> &nbsp;&bull;&nbsp;
-  <strong><a href="https://github.com/mtg92">mtg92</a></strong>
+  <strong><a href="https://github.com/mtg92">mtg92</a></strong> &nbsp;&bull;&nbsp;
+  <strong><a href="https://github.com/sergio-asenjo">sergio-asenjo</a></strong>
 </p>
 
 ---

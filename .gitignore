@@ -1,2 +1,16 @@
 .DS_Store
 *.tmp
+pdoc/
+Pdoc/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# IDE / Agent
+gemini.md
+.geminiignore
+.antigravityignore

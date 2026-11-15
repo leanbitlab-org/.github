@@ -33,9 +33,9 @@ We create open-source software focused on **efficiency**, **privacy**, and **use
       <td><b><a href="https://github.com/LeanBitLab/LeanType">⌨️ LeanType</a></b></td>
       <td>Privacy-first Android keyboard with multi-provider AI proofreading, offline voice typing, OCR, and deep customization</td>
       <td>
-        <a href="https://github.com/LeanBitLab/LeanType/releases/latest"><img src="https://img.shields.io/badge/Version-v4.3.1-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Version"></a>
+        <a href="https://github.com/LeanBitLab/LeanType/releases/latest"><img src="https://img.shields.io/badge/Version-v4.3.2-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Version"></a>
         <a href="https://github.com/LeanBitLab/LeanType/stargazers"><img src="https://img.shields.io/badge/Stars-1.2k-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Stars"></a>
-        <a href="https://github.com/LeanBitLab/LeanType/releases/latest"><img src="https://img.shields.io/badge/Downloads-112.6k-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Downloads"></a>
+        <a href="https://github.com/LeanBitLab/LeanType/releases/latest"><img src="https://img.shields.io/badge/Downloads-113.6k-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Downloads"></a>
       </td>
     </tr>
     <tr>
@@ -43,8 +43,8 @@ We create open-source software focused on **efficiency**, **privacy**, and **use
       <td>Fast, ad-free Android TV launcher with remote-friendly D-pad navigation, custom categories, widgets, and OLED screensaver</td>
       <td>
         <a href="https://github.com/leanbitlab-org/LtvLauncher/releases/latest"><img src="https://img.shields.io/badge/Version-v2026.10.27-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Version"></a>
-        <a href="https://github.com/leanbitlab-org/LtvLauncher/stargazers"><img src="https://img.shields.io/badge/Stars-475-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Stars"></a>
-        <a href="https://github.com/leanbitlab-org/LtvLauncher/releases/latest"><img src="https://img.shields.io/badge/Downloads-47.8k-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Downloads"></a>
+        <a href="https://github.com/leanbitlab-org/LtvLauncher/stargazers"><img src="https://img.shields.io/badge/Stars-477-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Stars"></a>
+        <a href="https://github.com/leanbitlab-org/LtvLauncher/releases/latest"><img src="https://img.shields.io/badge/Downloads-48.4k-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Downloads"></a>
       </td>
     </tr>
     <tr>
@@ -52,7 +52,7 @@ We create open-source software focused on **efficiency**, **privacy**, and **use
       <td>Offline Material You Android widget displaying system stats, step counter, calendar, tasks, and weather with zero network permissions</td>
       <td>
         <a href="https://github.com/LeanBitLab/Lwidget/releases/latest"><img src="https://img.shields.io/badge/Version-v2.9-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Version"></a>
-        <a href="https://github.com/LeanBitLab/Lwidget/stargazers"><img src="https://img.shields.io/badge/Stars-70-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Stars"></a>
+        <a href="https://github.com/LeanBitLab/Lwidget/stargazers"><img src="https://img.shields.io/badge/Stars-71-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Stars"></a>
         <a href="https://github.com/LeanBitLab/Lwidget/releases/latest"><img src="https://img.shields.io/badge/Downloads-2.2k-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Downloads"></a>
       </td>
     </tr>
@@ -62,7 +62,7 @@ We create open-source software focused on **efficiency**, **privacy**, and **use
       <td>
         <a href="https://github.com/LeanBitLab/RdTube/releases/latest"><img src="https://img.shields.io/badge/Version-v1.0.7-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Version"></a>
         <a href="https://github.com/LeanBitLab/RdTube/stargazers"><img src="https://img.shields.io/badge/Stars-44-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Stars"></a>
-        <a href="https://github.com/LeanBitLab/RdTube/releases/latest"><img src="https://img.shields.io/badge/Downloads-808-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Downloads"></a>
+        <a href="https://github.com/LeanBitLab/RdTube/releases/latest"><img src="https://img.shields.io/badge/Downloads-813-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Downloads"></a>
       </td>
     </tr>
     <tr>
@@ -71,7 +71,7 @@ We create open-source software focused on **efficiency**, **privacy**, and **use
       <td>
         <a href="https://github.com/LeanBitLab/Leantype-Handwriting-Plugin/releases/latest"><img src="https://img.shields.io/badge/Version-v1.0.7-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Version"></a>
         <a href="https://github.com/LeanBitLab/Leantype-Handwriting-Plugin/stargazers"><img src="https://img.shields.io/badge/Stars-22-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Stars"></a>
-        <a href="https://github.com/LeanBitLab/Leantype-Handwriting-Plugin/releases/latest"><img src="https://img.shields.io/badge/Downloads-5.5k-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Downloads"></a>
+        <a href="https://github.com/LeanBitLab/Leantype-Handwriting-Plugin/releases/latest"><img src="https://img.shields.io/badge/Downloads-5.6k-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Downloads"></a>
       </td>
     </tr>
     <tr>
@@ -79,8 +79,8 @@ We create open-source software focused on **efficiency**, **privacy**, and **use
       <td>100% on-device offline translation plugin for LeanType supporting 59+ languages powered by ML Kit</td>
       <td>
         <a href="https://github.com/LeanBitLab/Leantype-Translation-Plugin/releases/latest"><img src="https://img.shields.io/badge/Version-v1.0.7-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Version"></a>
-        <a href="https://github.com/LeanBitLab/Leantype-Translation-Plugin/stargazers"><img src="https://img.shields.io/badge/Stars-16-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Stars"></a>
-        <a href="https://github.com/LeanBitLab/Leantype-Translation-Plugin/releases/latest"><img src="https://img.shields.io/badge/Downloads-8.3k-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Downloads"></a>
+        <a href="https://github.com/LeanBitLab/Leantype-Translation-Plugin/stargazers"><img src="https://img.shields.io/badge/Stars-17-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Stars"></a>
+        <a href="https://github.com/LeanBitLab/Leantype-Translation-Plugin/releases/latest"><img src="https://img.shields.io/badge/Downloads-8.4k-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Downloads"></a>
       </td>
     </tr>
     <tr>
@@ -89,7 +89,7 @@ We create open-source software focused on **efficiency**, **privacy**, and **use
       <td>
         <a href="https://github.com/LeanBitLab/LeanType-Voice-Plugin/releases/latest"><img src="https://img.shields.io/badge/Version-v1.0.2-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Version"></a>
         <a href="https://github.com/LeanBitLab/LeanType-Voice-Plugin/stargazers"><img src="https://img.shields.io/badge/Stars-36-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Stars"></a>
-        <a href="https://github.com/LeanBitLab/LeanType-Voice-Plugin/releases/latest"><img src="https://img.shields.io/badge/Downloads-5.3k-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Downloads"></a>
+        <a href="https://github.com/LeanBitLab/LeanType-Voice-Plugin/releases/latest"><img src="https://img.shields.io/badge/Downloads-5.5k-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Downloads"></a>
       </td>
     </tr>
     <tr>
@@ -97,7 +97,7 @@ We create open-source software focused on **efficiency**, **privacy**, and **use
       <td>100% on-device neural proofreading and local LLM plugin for LeanType powered by llama.cpp and local GGUF models</td>
       <td>
         <a href="https://github.com/LeanBitLab/LeanType-Offline-AI-Plugin/releases/latest"><img src="https://img.shields.io/badge/Version-v1.0.1-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Version"></a>
-        <a href="https://github.com/LeanBitLab/LeanType-Offline-AI-Plugin/stargazers"><img src="https://img.shields.io/badge/Stars-20-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Stars"></a>
+        <a href="https://github.com/LeanBitLab/LeanType-Offline-AI-Plugin/stargazers"><img src="https://img.shields.io/badge/Stars-21-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Stars"></a>
         <a href="https://github.com/LeanBitLab/LeanType-Offline-AI-Plugin/releases/latest"><img src="https://img.shields.io/badge/Downloads-2.2k-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Downloads"></a>
       </td>
     </tr>
@@ -107,7 +107,7 @@ We create open-source software focused on **efficiency**, **privacy**, and **use
       <td>
         <a href="https://github.com/LeanBitLab/LeanType-OCR-Plugin/releases/latest"><img src="https://img.shields.io/badge/Version-v1.0.1-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Version"></a>
         <a href="https://github.com/LeanBitLab/LeanType-OCR-Plugin/stargazers"><img src="https://img.shields.io/badge/Stars-18-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Stars"></a>
-        <a href="https://github.com/LeanBitLab/LeanType-OCR-Plugin/releases/latest"><img src="https://img.shields.io/badge/Downloads-4.3k-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Downloads"></a>
+        <a href="https://github.com/LeanBitLab/LeanType-OCR-Plugin/releases/latest"><img src="https://img.shields.io/badge/Downloads-4.4k-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Downloads"></a>
       </td>
     </tr>
     <tr>
@@ -116,7 +116,7 @@ We create open-source software focused on **efficiency**, **privacy**, and **use
       <td>
         <a href="https://github.com/LeanBitLab/LeanType-CJK-Plugin/releases/latest"><img src="https://img.shields.io/badge/Version-v1.0.2-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Version"></a>
         <a href="https://github.com/LeanBitLab/LeanType-CJK-Plugin/stargazers"><img src="https://img.shields.io/badge/Stars-3-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Stars"></a>
-        <a href="https://github.com/LeanBitLab/LeanType-CJK-Plugin/releases/latest"><img src="https://img.shields.io/badge/Downloads-570-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Downloads"></a>
+        <a href="https://github.com/LeanBitLab/LeanType-CJK-Plugin/releases/latest"><img src="https://img.shields.io/badge/Downloads-606-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Downloads"></a>
       </td>
     </tr>
     <tr>
@@ -125,7 +125,7 @@ We create open-source software focused on **efficiency**, **privacy**, and **use
       <td>
         <a href="https://github.com/LeanBitLab/LeanType-Gif-Plugin/releases/latest"><img src="https://img.shields.io/badge/Version-v1.0.4-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Version"></a>
         <a href="https://github.com/LeanBitLab/LeanType-Gif-Plugin/stargazers"><img src="https://img.shields.io/badge/Stars-19-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Stars"></a>
-        <a href="https://github.com/LeanBitLab/LeanType-Gif-Plugin/releases/latest"><img src="https://img.shields.io/badge/Downloads-1.2k-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Downloads"></a>
+        <a href="https://github.com/LeanBitLab/LeanType-Gif-Plugin/releases/latest"><img src="https://img.shields.io/badge/Downloads-1.3k-7C4DFF?style=flat-square&amp;labelColor=161b22" alt="Downloads"></a>
       </td>
     </tr>
     <tr>
